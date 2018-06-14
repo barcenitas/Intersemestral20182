@@ -1,0 +1,12 @@
+2. Agente y busqueda de soluciones
+a.Agentes y ambientes
+	i.Tipos de agentes
+	ii.Tipos de ambientes
+b.Representación de problemas
+	i.Espacio de estados
+	ii.Representación minima correcta del espacio
+	iii.Árboles de búsqueda
+c.Búsqueda ciega
+	i.Búsqueda de profundidad
+	ii.Búsqueda de amplitud
+	iii.Búsqueda de costo uniforme
