@@ -1,0 +1,23 @@
+directiva: pequeña funcinoalidad en forma de atributo html que se utiliza en la vista para mostrar algo
+condiciones atributos
+mostrar componentes
+-----------------------------------------
+<div *ngIf="trabajador_externo == true">
+	<button (click)="cambiarExterno(false)">Mostrar empleado 2</button>
+<ul>
+	<li>{{trabajadores[1].nombre}}</li>
+	<li>{{trabajadores[1].edad}}</li>
+	<li>{{trabajadores[1].cargo}}</li>
+	<li>{{trabajadores[1].contratado}}</li>
+</ul>
+</div>
+
+<div  *ngIf="trabajador_externo == true">
+		<button (click)="cambiarExterno(false)">Mostrar empleado 3</button>
+	<ul>
+	<li>{{trabajadores[2].nombre}}</li>
+	<li>{{trabajadores[2].edad}}</li>
+	<li>{{trabajadores[2].cargo}}</li>
+	<li>{{trabajadores[2].contratado}}</li>
+</ul>
+</div>

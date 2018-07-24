@@ -1,0 +1,1216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"coc",
+				"coches/"
+			],
+			[
+				"Con",
+				"ConversorPipe\talias"
+			],
+			[
+				"re",
+				"result\tlet"
+			],
+			[
+				"val",
+				"value_two\tlet"
+			],
+			[
+				"value",
+				"value_one\tlet"
+			],
+			[
+				"va",
+				"value_two\tlet"
+			],
+			[
+				"get",
+				"getRopa\tmethod"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"fruta",
+				"fruta/"
+			],
+			[
+				"emp",
+				"empleado/"
+			],
+			[
+				"colo",
+				"color_seleccionado\tproperty"
+			],
+			[
+				"c",
+				"color_seleccionado\tproperty"
+			],
+			[
+				"tra",
+				"trabajador_externo\tproperty"
+			],
+			[
+				"num",
+				"Number\tconst"
+			],
+			[
+				"Compo",
+				"component\talias"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"so",
+				"socialBar.html"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"aling",
+				"align-items"
+			],
+			[
+				"size",
+				"background-size"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"padin",
+				"padding"
+			],
+			[
+				"tr",
+				"translate()"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"vertice",
+				"vertices"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"T",
+				"this"
+			],
+			[
+				"add",
+				"addColumn"
+			],
+			[
+				"co",
+				"comentarios"
+			],
+			[
+				"pro",
+				"protractor.js"
+			],
+			[
+				"ca",
+				"carteleraTotal.html"
+			],
+			[
+				"lo",
+				"losExtraños.jpg\tw:508 h:720"
+			],
+			[
+				"yon",
+				"yotonya.jpg\tw:810 h:1200"
+			],
+			[
+				"CIN",
+				"cine/"
+			],
+			[
+				"t",
+				"ticket3.png\tw:246 h:163"
+			],
+			[
+				"ti",
+				"ticket2.png\tw:246 h:163"
+			],
+			[
+				"icon",
+				"icon9/"
+			],
+			[
+				"ico",
+				"icon9/"
+			],
+			[
+				"ic",
+				"icon9/"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"i",
+				"github-circle.png\tw:48 h:48"
+			],
+			[
+				"C",
+				"C2.jpg\tw:300 h:400"
+			],
+			[
+				"D",
+				"D1.jpg\tw:300 h:400"
+			],
+			[
+				"Pla",
+				"PlAr"
+			],
+			[
+				"s",
+				"style-h-login.css"
+			],
+			[
+				"v",
+				"vehículo"
+			],
+			[
+				"I",
+				"Id_Factura"
+			],
+			[
+				"Id",
+				"Id_Factura"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"de",
+				"descripcion"
+			],
+			[
+				"par",
+				"parImpar"
+			],
+			[
+				"con",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"pa",
+				"parallax2.jpg\tw:924 h:607"
+			],
+			[
+				"funcion",
+				"funcion0"
+			],
+			[
+				"col-md",
+				"col-md-1 \tBootstrap 4 Class"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"anima",
+				"animation-name"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"j",
+				"codeContac4.jpg\tw:75 h:40"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"vida",
+				"vidaRelativa"
+			],
+			[
+				"fe",
+				"fecha_nacimiento"
+			],
+			[
+				"ape",
+				"apellido_materno"
+			],
+			[
+				"apelli",
+				"apellido_materno"
+			],
+			[
+				"apel",
+				"apellido_paterno"
+			],
+			[
+				"pensionada",
+				"pensionada_id"
+			],
+			[
+				"pensiona",
+				"pensionada_id"
+			],
+			[
+				"pensio",
+				"pensionada_id"
+			],
+			[
+				"pues",
+				"puesto_id"
+			],
+			[
+				"PUESTO",
+				"puesto_id"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"id",
+				"p_id_paciente_pk"
+			],
+			[
+				"VA",
+				"VARCHAR2"
+			],
+			[
+				"pal",
+				"palindroma"
+			],
+			[
+				"str",
+				"strlen"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/coches/coches.component.ts",
+			"settings":
+			{
+				"buffer_size": 309,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/coches/coche.ts",
+			"settings":
+			{
+				"buffer_size": 117,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/coches/coches.component.html",
+			"settings":
+			{
+				"buffer_size": 500,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"mar",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Add Repository"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"+",
+				"Set Syntax: C++"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/CursoAngular4",
+		"/C/xampp/htdocs/CursoAngular4/src",
+		"/C/xampp/htdocs/CursoAngular4/src/app",
+		"/C/xampp/htdocs/CursoAngular4/src/app/coches",
+		"/C/xampp/htdocs/CursoAngular4/src/app/empleado"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/CursoAngular4/src/app/app.component.html",
+		"/C/xampp/htdocs/CursoAngular4/src/app/app.module.ts",
+		"/C/xampp/htdocs/CursoAngular4/src/app/app.routing.ts",
+		"/C/xampp/htdocs/CursoAngular4/src/app/home/home.component.html",
+		"/C/xampp/htdocs/CursoAngular4/src/app/home/home.component.ts",
+		"/C/xampp/htdocs/CursoAngular4/src/app/services/ropa.service.ts",
+		"/C/xampp/htdocs/CursoAngular4/src/app/pipes/conversor.pipe.ts",
+		"/C/xampp/htdocs/CursoAngular4/src/assets/style.css",
+		"/C/xampp/htdocs/CursoAngular4/src/app/contacto/contacto.component.ts",
+		"/C/xampp/htdocs/CursoAngular4/src/app/contacto/contacto.component.html",
+		"/C/xampp/htdocs/CursoAngular4/src/app/empleado/empleado.component.ts",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Invitacion/invitacion.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/proyecto_oxxo/unete.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/proyecto_oxxo/promociones.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/proyecto_oxxo/productos.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/proyecto_oxxo/contacto.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/proyecto_oxxo/index.html",
+		"/C/xampp/htdocs/OXXO/promociones.html",
+		"/C/xampp/htdocs/OXXO/productos.html",
+		"/C/xampp/htdocs/OXXO/contacto.html",
+		"/C/xampp/htdocs/OXXO/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/oopart/Cosas/Nueva carpeta (3)/Curso-Web/Segunda semana/Miércoles 2/Tareas/OXXO/unete.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/oopart/Cosas/Nueva carpeta (3)/Curso-Web/Segunda semana/Miércoles 2/Tareas/OXXO/Promociones.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/oopart/Cosas/Nueva carpeta (3)/Curso-Web/Segunda semana/Miércoles 2/Tareas/OXXO/Productos.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/oopart/Cosas/Nueva carpeta (3)/Curso-Web/Segunda semana/Miércoles 2/Tareas/OXXO/Contacto.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/oopart/Cosas/Nueva carpeta (3)/Curso-Web/Segunda semana/Miércoles 2/Tareas/OXXO/contactanos.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/oopart/Cosas/Nueva carpeta (3)/Curso-Web/Segunda semana/Miércoles 2/Tareas/OXXO/index.html",
+		"/C/xampp/htdocs/CursoAngular4/src/app/empleado/empleado.ts",
+		"/C/xampp/htdocs/CursoAngular4/src/index.html",
+		"/C/xampp/htdocs/CursoAngular4/src/app/empleado/empleado.component.html",
+		"/C/xampp/htdocs/CursoAngular4/src/app/app.component.ts",
+		"/C/xampp/htdocs/CursoAngular4/src/app/fruta/fruta.component.ts",
+		"/C/xampp/htdocs/CursoAngular4/src/app/fruta/fruta.component.html",
+		"/C/xampp/htdocs/CursoAngular4/package.json",
+		"/C/xampp/htdocs/CursoAngularN01/package.json",
+		"/C/xampp/htdocs/CursoAngular/CursoAngularN1/package.json",
+		"/C/xampp/htdocs/CursoAngular/src/app/app.component.ts",
+		"/C/xampp/htdocs/CursoAngular/CursoAngular1/package.json",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Downloads/IADownloads/2. Busqueda/Pacman/search_esp/search.py",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Downloads/IADownloads/2. Busqueda/Tkinter/EjemploTkinter.py",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Downloads/IADownloads/2. Busqueda/Tkinter/Tkinter.py",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/iphone/css/iphone.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Futuro/css/Social.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Futuro/ciudad.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Downloads/iphone/iphone.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Downloads/iphone/css/iphone.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/Gradiente/gradiente.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Animación/Marcianito/index.html",
+		"/E/Animación/Marcianito/index.html",
+		"/E/Repaso/MillennialPet/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Animación/TextoMoviendose/animacion.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Animación/TextoMoviendose/css/textoMoviendose.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Animación/animacion.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/colores.txt",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/css/socialBar.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/socialBar.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/css/social.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/social.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Cosas/Nueva carpeta (3)/Curso-Web/Primera semana/Miercoles/Tareas diseño web/Marcianito/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Animación/css/animacion.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/marquee.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/redes_sociales.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Infinity3Pet/front/MillennialPet/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/mejoran notablemente la experiencia del usuario al",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/CursoWeb/web_junio2018/Intermedio/Transición/css/style",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/login SpaceX/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Login Sx/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Login Sx/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/LoginFull/atributos.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login travel/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/pdf.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/LoginFull/formulario.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login SpaceX/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/LoginFull/login SpaceX/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login SpaceX/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/LoginFull/css/position.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/LoginFull/position1.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Mi Login/login.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/ejemplos css/placeholder4.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/ejemplos css/box-sizing3.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/ejemplos css/outline2.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/ejemplos css/position1.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/ejemplos css/u.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/ejemplos css/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login padre/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login padre/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/Gradiente/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/prueba.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login travel/css/email.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login travel/Email.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login travel/css/style2.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login travel/login.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login travel/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login travel/superposicion.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/CineBars/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/CineBars/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login v2/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login v2/css/style.css",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login v2/facebook.html",
+		"/C/xampp/htdocs/loginfacil.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/Intersemestral20182/WEB/Basico/login/index.html",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/dejkstra.c",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/ledsBluetooht.ino",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Complete Code/LED_ON_OFF/LED_ON_OFF.ino",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Complete Code/A/src/com/example/a/MainActivity.java",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Archivos/LED/app/src/main/java/com/led/led/DeviceList.java",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Archivos/LED/app/src/main/res/layout/activity_led_control.xml",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Complete Code/A/bin/AndroidManifest.xml",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Complete Code/A/res/values/strings.xml",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Complete Code/A/res/layout/activity_main.xml",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/bluetooth/src/org/danigarcia/examples/bluetooth/MainActivity.java",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/Archivos/LED/app/src/main/res/layout/activity_device_list.xml",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/controlPrueba1.ino",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/MDijkstra/Código/Rutas/Ruta 6/Ruta6",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/MDijkstra/Código/Rutas/Ruta 5/Ruta5",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/MDijkstra/Código/Rutas/Ruta 4/Ruta4",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/MDijkstra/Código/Rutas/Ruta 3/Ruta3",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/MDijkstra/Código/Rutas/Ruta 2/Ruta2",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/MDijkstra/Código/Rutas/Ruta 12/Ruta12.txt",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Documents/MDijkstra/Código/Rutas/Ruta 1/Ruta1.txt",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Downloads/Analisis/metodos-numericos",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Downloads/Analisis/Derivación numérica/Ejercicios sugeridos para derivación numérica",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Downloads/Analisis/Interpolación polinomial/Ejercicios sugeridos de polinomio interpolador de",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/auto.xml",
+		"/C/Users/Erick .LAPTOP-3QCCTCO7/Desktop/manual.xml"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"depth",
+			"%;>",
+			"\"></",
+			">\n",
+			"iconsd",
+			">\n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/coches/coches.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										305,
+										306
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										275,
+										276
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/coches/coche.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										112,
+										113
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										33,
+										34
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/coches/coches.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										77,
+										78
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										76,
+										77
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 34.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 91.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CursoAngular4.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"js\\app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
